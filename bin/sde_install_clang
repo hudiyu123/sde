@@ -40,7 +40,7 @@
 # Configuration
 ################################################################################
 
-git_repo_url="https://github.com/llvm/llvm-project.git"
+git_repo_url="https://github.com/hudiyu123/llvm-project"
 github_archive_base_url="https://github.com/llvm/llvm-project/releases/download"
 
 example_main_method=git
